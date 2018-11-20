@@ -361,7 +361,7 @@
                 "title": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b><b>&nbsp;</b>&nbsp;<b style=\"font-size: 3rem;\">&nbsp; </b><b style=\"font-size: 3rem;\">LOW-VOLTAGE</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><b>SYSTEMS INTEGRATION</b><b><br></b></p>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b>ACCESS CONTROL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CCTV &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FIRE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b><b style=\"font-size: 1.5rem;\">IOT</b></p><p><br></p>",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a> ",
                 "overlayOpacity": "0"
               },
@@ -379,7 +379,7 @@
                 "title": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ACCESS CONTROL</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BIOMETRIC&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CLOUD SERVICES&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b>&nbsp;<b>POE CONTROLLERS&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>WIRELESS&nbsp;<span style=\"font-size: 1.5rem;\">LOCKS</span><span style=\"font-size: 1.5rem;\">&nbsp; &nbsp;&nbsp;</span></b><span style=\"font-size: 1.5rem;\"><b>&nbsp;&nbsp;</b>&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><b style=\"font-size: 1.5rem;\">MOBILE CREDENTIALS</b></p>",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a> ",
                 "overlayOpacity": "0.1"
               },
@@ -397,7 +397,7 @@
                 "title": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;VIDEO SURVEILLANCE</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VIDEO MGMT SYSTEMS&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ANALOG/IP CCTV &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>CLOUD SERVICES&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;<b><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;VIDEO ANALYTICS-BI</b></p><p><b><br></b></p>",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a> ",
                 "overlayOpacity": "0.1"
               },
@@ -415,7 +415,7 @@
                 "title": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>FIRE ALARMS</b></p>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>INSTALLATION</b><span style=\"font-size: 1.5rem;\">&nbsp; &nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><b style=\"font-size: 1.5rem;\">MONITORING</b><span style=\"font-size: 1.5rem;\">&nbsp; &nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.5rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><b style=\"font-size: 1.5rem;\">MAINTENANCE&nbsp;</b></p>",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a> ",
                 "overlayOpacity": "0"
               },
@@ -433,7 +433,7 @@
                 "title": "<b>TELECOMMUNICATION &nbsp; &nbsp; &nbsp; &nbsp;</b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<b>&nbsp;BUSINESS PHONES-VOIP</b><br><b>&nbsp;</b><b>CABLE INFRASTRUCTURE</b><br><b>&nbsp;VOICE MAIL</b><b><br></b><b>&nbsp;VIDEOCONFERENCE</b><br>",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a> ",
                 "overlayOpacity": "0"
               }
